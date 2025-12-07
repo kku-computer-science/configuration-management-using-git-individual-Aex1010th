@@ -1,3 +1,4 @@
 "Author : นายปภพ สมนอก 663380018-4"
 "Section: 1"
-“I am responsible for: ส่วนเรียงของ bubble sort ”
+"I am responsible for: ส่วนเรียงของ bubble sort "
+"Term:moncchichi"
